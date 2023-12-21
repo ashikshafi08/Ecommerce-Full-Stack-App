@@ -51,11 +51,11 @@ Contributors are welcome. Please fork the repository, make your changes, and sub
 
 | Home Page         | Product Page      |
 | ----------------- | ----------------- |
-| ![Home Page]([URL_of_home_page_screenshot](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/home.png)) | ![Product Page](URL_of_product_page_screenshot) |
+| ![Home Page](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/home.png) | ![Product Page](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/productPage.png) |
 
 | Cart              | Admin Panel       |
 | ----------------- | ----------------- |
-| ![Cart]([URL_of_cart_screenshot](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/cart.png)) | ![Order Historyl](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/orderHistory.png) |
+| ![Cart](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/cart.png) | ![Order Historyl](https://github.com/ashikshafi08/Ecommerce-Full-Stack-App/blob/main/outputImages/orderHistory.png) |
 
 
 ## License
