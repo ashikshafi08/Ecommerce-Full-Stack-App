@@ -24,6 +24,7 @@ npm install
 npm run dev
 # Optionally, to run seeders:
 npm run seed:data
+```
 
 ### Frontend Setup
 To set up the frontend, execute these commands:
