@@ -19,3 +19,28 @@ npm run dev
 # Optionally, to run seeders:
 npm run seed:data
 
+### Frontend Setup
+To set up the frontend, execute these commands:
+```bash
+cd frontend
+npm install
+
+## Running the Application
+[Provide instructions on how to run both the frontend and backend parts of the application.]
+
+## Configuration
+[Include details of any necessary configuration or environment variables required.]
+
+## Usage
+[Add a guide or examples on how to use the application.]
+
+## Contributing
+[Offer guidelines for those who wish to contribute to the project.]
+
+## License
+[Provide information about the project's license.]
+
+## Acknowledgments
+[Credit any contributors or third-party resources.]
+
+
