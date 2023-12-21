@@ -1,7 +1,7 @@
 # Ecommerce Full Stack App
 
 ## Overview
-his Ecommerce Full Stack App is a comprehensive solution for online retail, offering a seamless and intuitive shopping experience for customers and a robust management system for administrators. The app boasts advanced features like dynamic product search, secure payment integrations, and real-time inventory tracking. It offers personalized user experiences with recommendations and wishlists. The admin panel provides detailed analytics and reporting tools for order tracking, customer engagement, and sales performance insights, making it an ideal platform for modern e-commerce needs
+This Ecommerce Full Stack App is a comprehensive solution for online retail, offering a seamless and intuitive shopping experience for customers and a robust management system for administrators. The app boasts advanced features like dynamic product search, secure payment integrations, and real-time inventory tracking. It offers personalized user experiences with recommendations and wishlists. The admin panel provides detailed analytics and reporting tools for order tracking, customer engagement, and sales performance insights, making it an ideal platform for modern e-commerce needs
 ## Technologies Used
 - Node.js
 - Express
