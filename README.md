@@ -30,6 +30,7 @@ To set up the frontend, execute these commands:
 ```bash
 cd frontend
 npm install
+```
 
 ## Running the Application
 To run the application:
