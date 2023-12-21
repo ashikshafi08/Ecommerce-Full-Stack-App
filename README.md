@@ -47,6 +47,17 @@ Users can explore various products, add them to their cart, and proceed to check
 ## Contributing
 Contributors are welcome. Please fork the repository, make your changes, and submit a pull request.
 
+## Screenshots
+
+| Home Page         | Product Page      |
+| ----------------- | ----------------- |
+| ![Home Page](URL_of_home_page_screenshot) | ![Product Page](URL_of_product_page_screenshot) |
+
+| Cart              | Admin Panel       |
+| ----------------- | ----------------- |
+| ![Cart](URL_of_cart_screenshot) | ![Admin Panel](URL_of_admin_panel_screenshot) |
+
+
 ## License
 This project is licensed under the MIT License.
 
